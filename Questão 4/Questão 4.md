@@ -15,7 +15,7 @@ int   *p4;
 int   *p5;
 ```
 
-#Execuções
+# Execuções
 
 ## (a)
 
