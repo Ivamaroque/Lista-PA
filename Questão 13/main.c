@@ -36,6 +36,7 @@ int main() {
     printf("\tValor do %i° elemento: ", i+1);
     scanf("%f", &elements[i]);
   }
+  order_elements(elements, n);
   printf("\nElementos ordenados:\n  ");
   print_elements(elements, n);
 

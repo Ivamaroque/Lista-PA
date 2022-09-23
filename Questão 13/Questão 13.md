@@ -41,6 +41,7 @@ int main() {
     printf("\tValor do %i° elemento: ", i+1);
     scanf("%f", &elements[i]);
   }
+  order_elements(elements, n);
   printf("\nElementos ordenados:\n  ");
   print_elements(elements, n);
 
@@ -52,13 +53,13 @@ int main() {
 ```
 Insira o valor de n: 5
 
-    Valor do 1° elemento: 1
-    Valor do 2° elemento: 2
-    Valor do 3° elemento: 3
-    Valor do 4° elemento: 4
-    Valor do 5° elemento: 5
+    Valor do 1° elemento: 23.5
+    Valor do 2° elemento: 76.4
+    Valor do 3° elemento: 11.29
+    Valor do 4° elemento: 98.54
+    Valor do 5° elemento: 67.14
 
 Elementos ordenados:
-  [1.00, 2.00, 3.00, 4.00, 5.00]
+  [11.29, 23.50, 67.14, 76.40, 98.54]
 ```
 
