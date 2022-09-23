@@ -49,9 +49,9 @@ int main() {
 ```
 
 ## Console
-```c
+```
 Insira o valor de n: 5
-
+s
     Valor do 1° elemento: 1
     Valor do 2° elemento: 2
     Valor do 3° elemento: 3
