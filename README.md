@@ -2,3 +2,4 @@
 
 Integrantes:
 - Ivamar Dantas Roque
+- Maria Clara Moura de Freitas
